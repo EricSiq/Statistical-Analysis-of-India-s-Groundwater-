@@ -96,15 +96,6 @@ Or launch it interactively on **Google Colab**:
 
 ---
 
-## 📈 Sample Results (Preview)
-
-*(Replace with actual plots/diagrams once generated)*
-
-<p align="center">
-  <img src="results/sample_plot.png" width="600"/>
-</p>  
-
----
 
 ## 📚 Tech Stack
 
@@ -113,15 +104,3 @@ Or launch it interactively on **Google Colab**:
 * **Tools**: Jupyter Notebook, Git, Colab
 
 ---
-
-## 🏆 Acknowledgements
-
-This project was developed as part of the **STAIML coursework**. Gratitude to instructors and peers for guidance and support.
-
----
-
-👉 This format makes your README look **professional and academic**, but still keeps readers engaged with **visual badges, diagrams, and clear structure**.
-
----
-
-Would you like me to also **extract the actual plots/outputs from your notebook** and insert them into the README automatically, so it has *real previews* instead of placeholders?
